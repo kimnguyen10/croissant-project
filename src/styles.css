@@ -6,6 +6,7 @@ body {
 footer a {
   margin: 0 10px;
   color: green;
+  cursor: pointer;
 }
 
 img {
